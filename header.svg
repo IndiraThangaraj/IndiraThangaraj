@@ -10,7 +10,7 @@
                     animation: shimmer 2.5s infinite;
                     font-size: 50px;
                     max-width:200px;
-                    background-image: url("https://github.com/rajeshias/IndiraThangaraj/assets/75661804/a3cd54e0-aab3-4d7f-838a-d77725ef99c7");
+                    background-image: url("https://fastly.picsum.photos/id/220/200/300.jpg?hmac=XQWeukbBSi6WSlgZllfOJjG8AQQXS9dYI8IqvKpE1ss");
                     background-size: cover;
                     width: 200px;
                     height: 200px;
