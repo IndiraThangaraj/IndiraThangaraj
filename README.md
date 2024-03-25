@@ -3,7 +3,7 @@
 </h4> 
 👋 About Me:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F253F7&random=false&width=435&lines=My+name+is+Indira+Thangaraj.+I+m+a+fourth+year+student+pursuing+Bachelor+Of+Computer+Science+(Bioinformatics)+With+Honours+Computing+in+Universiti+Teknologi+Malaysia.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F253F7&random=false&width=435&lines=Indira+Thangaraj;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
 <h5> 🌍  I'm based in Selangor, Malaysia. </h5>
 <h5> ✉️  You can contact me at indira@graduate.utm.my. </h5>
 
