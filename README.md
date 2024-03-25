@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F253F7&random=false&width=435&lines=I+am+Indira+Thangaraj;Always+learning+new+things;Completed+Internship+at+Maybank;Aspiring+Software+Developer;Love+to+make+poster+design" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=F253F7&random=false&width=435&lines=I+am+Indira+Thangaraj;Always+learning+new+things;Completed+Internship+at+Maybank;Aspiring+Software+Developer;Love+to+make+poster+design" alt="Typing SVG" /></a>
 </p>
 
 ![WELCOME (1)](https://github.com/IndiraThangaraj/IndiraThangaraj/assets/102167074/6182cb8a-e6c0-44ee-b3d0-8b217309e00c)
