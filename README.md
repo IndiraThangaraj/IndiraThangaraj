@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F253F7&random=false&width=435&lines=I+am+Indira+Thangaraj;Always+learning+new+things;Completed+Internship+at+Maybank;Aspiring+Software+Developer;Love+to+make+poster+design" alt="Typing SVG" /></a>
+
 ![WELCOME (1)](https://github.com/IndiraThangaraj/IndiraThangaraj/assets/102167074/6182cb8a-e6c0-44ee-b3d0-8b217309e00c)
 <h4>Hey there! 🌟 Welcome to my GitHub! Here's a little intro to what you'll find here:
 </h4> 
